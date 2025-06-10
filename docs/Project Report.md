@@ -6,7 +6,7 @@
 
 - **Prepared for**: UMBC Data Science Master’s Capstone  
   **Advisor**: Dr. Chaojie (Jay) Wang  
-- **Author**: Kaushik Manjunatha  
+- **Author**: Havish Vakkalanka 
 
 ### **Links**
 - [LinkedIn](https://www.linkedin.com/in/kaushikm97/)  
